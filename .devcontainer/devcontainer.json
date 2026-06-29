@@ -8,7 +8,7 @@
 	// },
 	"image": "ghcr.io/nickilby/jim-bob-dev:latest",
 	"features": {
-		"ghcr.io/devcontainers/features/docker-in-docker:2": {},
+		"ghcr.io/devcontainers/features/docker-in-docker:4": {},
 		"ghcr.io/devcontainers-contrib/features/starship:1": {}
 	},
 	"forwardPorts": [8000],
